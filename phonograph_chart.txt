@@ -1,0 +1,777 @@
+########## 字母总表 ##########
+# 音	繁	草	簡
+a	烏	於	乌
+ai	阿	阿	阿
+ak	亞	亞	亚	區分用「亞ah」「惡ak」
+am	奄	奄	奄
+an	安	安	安
+ap	奄	奄	压
+at	謁	謁	谒	諧「as」
+au	夭	夭	夭	諧「auk」
+aŋ	央	央	央
+e	兮	兮	兮
+ek	益	益	益
+em	猒	厭	厌	諧「ep」
+en	燕	燕	燕
+eu	要	要	要
+eŋ	賏	嬰	婴
+i	伊	一	一
+ia	耶	耶	耶	或「邪」
+iak	射	射	射
+in	因	因	因
+it	乙	乙	乙
+iu	幺	幺	幺
+o	區	區	区
+oi	禾	禾	禾
+ok	屋	屋	屋
+on	夗	夗	夗
+os	會	會	会	諧「ot」
+oŋ	邕	邕	邕
+u	㥑	㥑	㥑
+ui	回	回	回	或「畏威」
+uk	奧	奧	奧
+un	昷	昷	昷
+us	尉	尉	尉
+ut	鬱	㭗	㭗
+ə	矣	矣	矣
+əi	衣	衣	衣
+ək	意	意	意	諧「əh」
+əm	音	音	音
+ən	殷	殷	殷
+əp	邑	邑	邑
+əs	㤅	愛	㤅
+əŋ	䧹	應	应
+ba	步	步	步
+bam	凡	凡	凡
+ban	棥	煩	烦
+bap	乏	乏	乏
+bat	伐	伐	伐
+bas	吠	吠	吠
+beŋ	並	並	並
+bin	頻	頻	频
+boŋ	夆	夆	夆
+bu	阜	阜	阜
+bə	咅	咅	咅
+bək	伏	伏	伏
+bən	焚	焚	焚	或「盆」
+breŋ	平	平	平	諧「pʰreŋ」
+ca	且	且	且
+cai	左	左	左	或「𠂇」
+cak	昔	昔	昔
+cam	斬	斬	斩
+can	戔	戔	戋
+cap	妾	妾	妾	或「疌」
+cat	蔡	蔡	蔡
+cau	喿	喿	喿
+caŋ	爿	將	爿
+ce	此	此	此
+cek	責	責	责	不區分或用「朿」
+cem	㦰	韱	㦰
+cen	戔	戔	戋
+cep	妾	妾	妾	或「疌」
+cet	截	截	截
+ces	祭	祭	祭
+ceu	焦	焦	焦
+ceuk	雀	雀	雀
+ceŋ	井	井	井	或「青」
+ci	𠂔	𠂔	𠂔
+cin	津	津	津	或「盡」
+cik	即	即	即
+ciu	秋	秋	秋	諧「cʰiu」
+co	取	取	取
+cok	足	足	足
+con	雋	雋	雋
+cot	絕	絕	绝
+coŋ	从	从	从
+cu	早	早	早
+cui	崔	崔	崔
+cuk	就	就	就
+cun	尊	尊	尊	不區分或用「寸」
+cut	卒	卒	卒
+cuŋ	宗	宗	宗
+cə	子	子	子
+cək	則	則	则
+cəm	兂	侵	兂	草形即「侵」右半
+cən	薦	薦	荐	諧「cen」
+cəp	咠	咠	帀
+cəŋ	曾	曾	曾
+cra	查	查	查
+crai	差	差	差
+crau	巢	巢	巢
+craŋ	壯	壯	壮
+cren	孨	孨	孨
+crep	臿	臿	臿
+cret	札	札	札
+creŋ	爭	爭	争
+cro	芻	芻	刍
+cru	爪	爪	爪
+crə	甾	甾	甾
+crək	仄	仄	仄
+cʰan	粲	粲	歺	即「粲」上半，或「湌」
+cʰaŋ	倉	倉	仓
+cʰek	朿	朿	朿	諧「cek」
+cʰen	千	千	千
+cʰeu	少	少	少
+cʰi	次	次	次
+cʰin	亲	親	亲
+cʰit	七	七	七	或「切桼」
+cʰot	毳	毳	毳
+cʰu	屮	草	屮	或「艸」
+cʰus	翠	翠	翠
+cʰun	寸	寸	寸
+cʰə	采	采	采
+cʰra	初	初	初
+cʰrai	叉	叉	叉	諧「cʰre」
+cʰran	產	產	产
+cʰraŋ	爽	爽	爽
+cʰrek	冊	冊	冊
+cʰrəm	參	參	参	諧「srəm」
+da	屠	屠	屠	或「署」
+dak	度	度	度
+das	大	大	大	諧「dai」諧「dat」
+dau	盜	盜	盜
+daŋ	尚	尚	尚
+de	是	是	是
+dek	狄	狄	狄
+dem	甜	甜	甜
+dep	涉	涉	涉
+des	筮	筮	筮
+deŋ	成	成	成
+di	弟	弟	弟
+din	田	田	田
+do	殳	殳	殳
+doi	隋	隋	陏
+dok	蜀	蜀	独
+dot	奪	奪	夺
+doŋ	動	動	动
+du	受	受	寿	或「售雔壽」
+duk	孰	孰	孰
+dun	臀	臀	臀
+dut	突	突	突
+duŋ	彤	彤	彤
+də	時	時	时
+dək	直	直	直
+dəm	甚	甚	甚	諧「kʰəm」
+dən	殿	殿	殿
+dəp	沓	沓	沓
+dəŋ	氶	氶	氶
+ga	巨	巨	巨
+gai	何	何	何
+gau	豪	豪	豪
+gaŋ	行	行	行
+ge	氏	氏	氏
+get	頁	頁	页	諧「git」
+geŋ	刑	刑	刑
+gi	示	示	示
+gin	臣	臣	臣
+go	具	具	具	或「侯」
+gon	完	完	完
+gu	求	求	求
+gə	其	其	亓
+gəm	咸	咸	咸
+gra	豦	劇	豦	諧「grak」
+gran	件	件	件
+grat	桀	杰	杰	諧「gret」
+grau	爻	爻	爻
+graŋ	杏	杏	杏
+gren	閑	閑	闲
+greŋ	幸	幸	幸
+gʷa	戶	戶	戶
+gʷi	癸	癸	癸
+ha	乎	乎	乎
+hai	䖒	戲	戏
+hak	㕡	㕡	㕡
+ham	喊	喊	喊
+han	憲	憲	宪
+hat	歇	歇	歇
+haŋ	亨	亨	亨
+he	奚	奚	奚
+hek	鬩	鬩	阋
+hen	顯	顯	显
+hep	劦	劦	劦
+hiu	收	收	收
+ho	吼	吼	吼
+hon	奐	奐	奂
+hoŋ	凶	凶	凶
+hu	休	休	休
+hui	卉	卉	卉
+hum	吽	吽	吽	諧「huŋ」
+hun	熏	熏	熏
+hə	喜	喜	喜
+həi	希	希	希
+həm	含	含	含
+hən	斤	斤	斤
+həp	吸	吸	吸	或「翕」
+hət	乞	乞	乞
+həŋ	興	興	兴
+hla	虎	虎	虎
+hrak	赫	赫	赫
+hram	僉	僉	佥
+hrau	号	号	号
+hroi	毀	毀	毀
+hru	孝	孝	孝
+hruk	畜	畜	畜
+hʷa	吁	吁	吁
+hʷak	霍	霍	霍	或「矍」
+hʷaŋ	兄	兄	兄
+hʷek	砉	砉	砉
+hʷit	血	血	血
+hʷə	灰	灰	灰
+ka	古	古	古
+kai	哥	哥	哥
+kak	卻	卻	却
+kam	甘	甘	甘
+kan	干	干	干
+kap	劫	劫	劫
+kat	丐	曷	丐
+kau	高	高	高
+kaŋ	亢	亢	亢
+ke	支	支	支
+kek	毄	毄	击
+ken	見	見	见
+kep	夾	夾	夹
+ket	丯	㓞	丯
+keu	敫	敫	敫	諧「keuk」
+keŋ	巠	巠	圣
+ki	旨	旨	旨	或「卟」
+kip	十	十	十
+kit	吉	吉	吉
+kiu	丩	丩	丩
+ko	句	句	句
+koi	冎	咼	过	或「果」
+kok	局	局	局
+kon	毌	官	毌	或「卷雚」
+kos	會	會	会
+kot	欮	欮	欮
+koŋ	工	工	工	或「廾共」
+ku	九	九	九
+kui	鬼	鬼	鬼
+kuk	匊	匊	匊	或「𦥑告」
+kun	軍	軍	军	或「昆」
+kut	出	出	出
+kuŋ	宫	宫	宫
+kə	己	己	己
+kəi	幾	幾	幾
+kəs	旡	既	旡
+kək	亟	亟	亟	或「棘」
+kəm	今	今	今	或「金」
+kən	斤	斤	斤
+kəp	合	合	合
+kəs	气	气	气
+kət	乞	乞	乞
+kəŋ	亙	亙	亙
+kloŋ	公	公	公
+kra	叚	叚	叚	或「家」
+krai	加	加	加
+krak	丮	丮	丮	或「戟」
+kram	僉	僉	佥
+kran	虔	虔	虔
+krap	甲	甲	甲
+krat	孑	孑	孑
+krau	敎	敎	教
+kraŋ	京	京	京
+kre	解	解	解
+krek	鬲	鬲	鬲
+kren	閒	閒	间
+kret	介	介	介
+kreu	交	交	交
+kreŋ	敬	敬	敬
+kri	几	几	几
+krip	皀	皀	皀
+krit	戛	戛	戛
+kriu	翏	翏	翏
+kro	冓	冓	冓
+kron	串	串	串
+krot	孓	孓	孓
+kroŋ	冓	冓	讲
+kruk	學	學	学
+krun	囷	囷	囷
+krək	革	革	革
+krəm	禁	禁	禁
+krən	巾	巾	巾
+krəp	及	及	及
+krəs	冀	冀	冀
+kʰa	去	去	去
+kʰai	可	可	可
+kʰam	欠	欠	欠
+kʰan	看	看	看
+kʰe	企	企	企	或取「啓」上方
+kʰen	遣	遣	遣
+kʰi	棄	棄	弃
+kʰin	牽	牽	牵
+kʰo	口	口	口
+kʰoi	科	科	科
+kʰok	曲	曲	曲
+kʰon	萈	寬	宽
+kʰoŋ	空	空	空
+kʰun	困	困	困
+kʰək	克	克	克
+kʰəŋ	肯	肯	肎
+kʰla	處	處	处
+kʰlak	赤	赤	赤
+kʰlaŋ	羌	羌	羌
+kʰleŋ	殸	殸	殸
+kʰlu	考	考	考
+kʰra	虛	虛	虚	諧「hra」
+kʰri	器	器	器
+kʰru	丂	丂	丂
+kʷa	瓜	瓜	瓜
+kʷak	䀠	郭	䀠
+kʷaŋ	光	光	光
+kʷe	規	規	规
+kʷek	狊	狊	狊
+kʷen	犬	犬	犬
+kʷet	夬	夬	夬
+kʷeŋ	冋	冋	冋
+kʷi	季	季	季
+kʷit	矞	矞	矞
+kʷə	久	久	久
+kʷək	國	國	国
+kʷəŋ	弓	弓	弓
+kʷʰaŋ	匡	匡	匡
+kʷʰə	丘	丘	丘
+la	余	与	与
+lai	它	它	它
+lak	亦	亦	亦
+lam	炎	炎	炎
+lan	延	延	延
+lap	傝	傝	傝	即「傝」右側
+las	曳	曳	曳	諧「les」
+lau	兆	兆	兆
+lauk	龠	龠	乐
+laŋ	羊	羊	羊
+le	也	也	也
+lek	易	易	易
+lem	甜	甜	甜
+lep	世	世	世
+leu	䍃	䍃	䍃
+leuk	翟	翟	翟
+leŋ	𡈼	𡈼	𡈼
+li	尸	尸	尸
+lin	申	申	申
+lit	失	失	失
+liu	由	由	由	或「攸」
+lo	俞	俞	臾	或「臾」
+loi	隋	隋	陏
+lok	谷	欲	谷	或「𧶠」
+lon	㕣	㕣	㕣
+lot	兌	兌	兑	異體「兑」
+loŋ	用	用	用
+lu	酉	酉	酉
+luk	育	育	育
+lun	允	允	允	或「尹」
+lus	㒸	㒸	㒸
+lut	聿	聿	聿
+luŋ	虫	虫	虫
+lə	㠯	台	巳	或「以台巳」
+lək	弋	弋	弋
+ləm	㸒	㸒	㸒
+lən	寅	寅	寅
+ləp	習	習	习
+ləs	隶	隶	隶
+ləŋ	朕	朕	朕
+ma	無	無	无
+mai	麻	麻	麻
+mak	莫	莫	莫
+man	曼	万	万
+mat	末	末	末
+mau	毛	毛	毛
+maŋ	亡	亡	亡	或「网」
+me	乜	乜	乜	或「咩」
+mek	冖	冖	冖	或「冪覓」
+men	面	面	面	或「丏」
+met	烕	烕	烕
+meu	少	少	少
+meŋ	名	名	名
+mi	米	米	米
+min	民	民	民
+mit	宓	宓	宓
+mo	母	母	母
+mok	木	木	木
+moŋ	冡	冡	冡
+mu	矛	矛	矛	或「牟」
+muh	冃	帽	冃
+muk	目	目	目
+mə	每	每	每
+məi	尾	尾	尾	或「枚微」
+mək	黑	黑	黑
+mən	文	文	文	或「門」
+məs	未	未	未
+mət	勿	勿	勿	或「沒歿」
+məŋ	夢	夢	梦	即「瞢」上半部分
+mra	馬	馬	马
+mrak	百	百	百
+mrau	苗	苗	苗	諧「mreu」
+mrauk	皃	皃	皃	諧「mreuk」
+mraŋ	明	明	明	或「皿」
+mre	買	買	买
+mrek	𠂢	𠂢	𠂢
+mreŋ	黽	黽	黾
+mri	眉	眉	眉
+mroŋ	尨	尨	尨
+mru	卯	卯	卯
+mrək	麥	麥	麦
+mrən	閔	閔	闵	或「敏」
+na	女	女	女
+nai	那	那	那
+nak	若	若	若
+nam	冉	冉	冉
+nan	肰	然	肰
+nap	聶	聶	聂	諧「nep」
+nat	奈	奈	奈
+nau	夒	擾	扰
+naŋ	襄	襄	让
+ne	爾	尔	尔
+nem	染	染	染
+neu	尿	尿	尿
+neuk	弱	弱	弱
+neŋ	寍	寧	宁
+ni	尼	尼	尼
+nim	念	念	念
+nin	人	人	人
+nip	廿	廿	廿
+nit	日	日	日
+no	需	需	需	或「乳」
+noi	妥	妥	妥	諧「nui」
+nok	辱	辱	辱
+non	耎	耎	耎
+noŋ	冗	冗	冗
+nu	丑	丑	丑
+nuk	肉	肉	肉
+nun	閏	閏	闰
+nut	內	內	内
+nuŋ	戎	戎	农
+nə	乃	乃	乃	或「而耳」
+nəm	壬	壬	壬	或「南」
+nən	刃	刃	刃
+nəp	入	入	入
+nəŋ	仍	能	仍
+pa	夫	夫	夫	或「父」
+pai	皮	皮	皮
+pak	尃	尃	尃
+pam	氾	氾	氾
+pan	反	反	反	或「釆半」
+pap	法	法	法
+pas	貝	貝	贝
+pat	犮	犮	犮
+pau	麃	麃	麃
+pauk	暴	暴	暴
+paŋ	方	方	方
+pe	卑	卑	卑
+pek	辟	辟	辟
+pen	扁	扁	扁	或「便辡」
+pet	㡀	㡀	㡀
+peu	彪	彪	彪	或「髟猋」，諧「piu」
+peŋ	并	并	并
+pi	匕	匕	匕
+pin	賓	賓	宾
+pit	必	必	必
+po	付	付	付
+pok	卜	卜	卜
+poŋ	丰	丰	丰
+pu	缶	缶	缶	或「保」
+puk	复	复	复
+puŋ	風	風	风	諧「pəm」
+pə	不	不	不
+pəi	非	非	非
+pək	北	北	北	或「畐」
+pən	分	分	分
+pət	弗	弗	弗
+pəŋ	朋	朋	朋
+pra	巴	巴	巴
+prai	罷	罷	罢	諧「pre」
+prak	白	白	白
+pran	班	班	班
+praŋ	兵	兵	兵
+pret	八	八	八	或「別」
+proŋ	邦	邦	邦
+pru	勹	包	勹	或「包」
+prə	啚	鄙	啚
+prəm	品	品	品
+prən	卞	卞	卞	或「弁」
+prəŋ	仌	冰	仌	或「冰」
+pʰa	敷	敷	敷
+pʰen	片	片	片	諧「pʰin」
+pʰeŋ	甹	甹	甹
+pʰit	匹	匹	匹
+pʰo	孚	孚	孚
+pʰəs	費	費	费
+pʰrə	丕	丕	丕
+ra	吕	吕	卢	異體「呂」
+rah	路	路	路
+rai	羅	羅	罗	或「离」
+rak	各	各	各
+ram	僉	僉	佥	或「監」
+ran	闌	闌	兰
+rap	巤	巤	猎
+ras	賴	賴	赖
+rat	列	列	列	或「厲剌」
+rau	勞	勞	劳
+rauk	樂	樂	乐	諧「reuk」
+raŋ	刅	良	刅	或「良」
+re	丽	麗	丽
+rek	秝	歷	历
+rem	兼	兼	兼
+ren	柬	柬	柬	或「連」
+rep	劦	劦	劦
+res	隸	隸	隶	諧「rəs」
+reu	了	了	了	或「尞料」
+reŋ	令	令	令
+ri	利	利	利	或「豊」
+rin	粦	粦	粦
+rit	栗	栗	栗
+riu	翏	翏	翏
+ro	婁	婁	娄
+roi	累	累	厽
+rok	彔	彔	录
+ron	䜌	䜌	卵
+rot	寽	寽	寽
+roŋ	龍	龍	龙	或「弄」
+ru	㐬	㐬	㐬	或「卯老」
+rui	耒	雷	耒	或「雷」
+ruk	六	六	六	或「坴」
+run	侖	侖	仑
+rus	頪	類	类
+rut	律	律	律	或「率」
+ruŋ	夅	夅	夅
+rə	里	里	里	或「李」
+rək	力	力	力
+rəm	㐭	林	㐭
+rən	吝	吝	吝
+rəp	立	立	立
+rət	戾	戾	戾
+rəŋ	夌	夌	夌
+sa	疋	疋	疋
+sai	沙	沙	沙
+sah	素	素	素
+sak	索	索	索
+sam	三	三	三
+san	仙	仙	仙	或「鮮㪔」
+sap	卅	卅	卅
+sat	辥	薛	辥
+sau	笑	笑	笑
+saŋ	相	相	相	或「桑」
+se	斯	斯	斯	或「細」
+sek	析	析	析
+set	屑	屑	屑
+seu	小	小	小
+seŋ	星	星	星	不區分或用「生」
+si	厶	厶	厶
+sia	些	些	些	或「些舄」
+sin	辛	辛	辛
+sip	卌	卌	卌
+sit	悉	悉	悉
+siu	肅	肅	肃	或「秀」
+so	須	須	须
+soi	瑣	瑣	琐	即「瑣」右半
+sok	束	束	束
+son	祘	祘	祘
+sot	雪	雪	雪
+soŋ	送	送	送
+su	㕚	㕚	㕚
+suk	夙	宿	夙
+sun	孫	孫	孙
+sut	祟	祟	祟
+suŋ	宋	宋	宋
+sə	絲	絲	丝	或「司思」
+səi	西	西	西
+sək	息	息	息	或「塞」
+səm	心	心	心	諧「sem」「sim」
+sən	先	先	先	諧「sen」
+sət	屑	屑	屑	諧「set」
+səŋ	曾	曾	曾	區分用「僧」
+slak	夕	夕	夕
+slan	㳄	㳄	㳄	諧「slen」
+slaŋ	象	象	象
+sloŋ	松	松	松
+slu	囚	囚	囚
+slus	遂	遂	遂
+slə	辭	辭	词
+sləm	尋	尋	寻
+smit	戌	戌	戌
+sra	所	所	所
+sram	彡	彡	彡
+sran	山	山	山
+srat	殺	殺	杀
+sraŋ	霜	霜	霜	或「爽」
+sreŋ	生	生	生
+sri	師	師	师
+sro	數	數	数
+srot	刷	刷	刷	或「㕞」
+sroŋ	雙	雙	双
+sru	叟	叟	叟
+srui	衰	衰	衰
+srut	帥	帥	帅
+srə	史	史	史
+srək	色	色	色	或「嗇」
+srəm	參	參	参	或「森」
+srəp	歰	歰	涩
+sta	書	書	书
+stit	室	室	室
+swan	宣	宣	宣
+swen	旋	旋	旋
+swin	旬	旬	旬	或「隼」
+sŋa	穌	穌	苏	或「卸」
+sŋak	斥	斥	斥
+ta	者	者	者
+tak	石	石	石	或「斥尺」
+tam	詹	詹	詹
+tan	旦	旦	旦	或「丹」
+tap	耷	耷	耷
+tat	折	折	折	諧「tet」
+tas	制	制	制	或「帶」，諧「tes」
+tau	刀	刀	刀
+taŋ	章	當	当	或「敞當」
+te	氏	氏	氏	或「是」
+teh	帝	帝	帝
+tek	啇	啇	啇
+tem	占	占	占
+teu	召	召	召
+teuk	勺	勺	勺
+teŋ	丁	丁	丁	或「正」
+ti	氐	氐	氐
+tiak	炙	炙	炙
+tin	真	真	真	或「典」
+tip	執	執	执
+tit	至	至	至	或「斦」
+tiu	周	周	周
+to	主	主	主	或「朱豆斗鬥」
+toi	垂	垂	垂	或「朵」
+tok	屬	屬	属
+ton	耑	專	专
+tot	叕	叕	叕
+toŋ	東	東	东
+tu	舟	舟	舟	或「州」
+tui	對	對	对
+tuk	祝	祝	祝
+tun	屯	屯	屯	或「敦」
+tuŋ	冬	冬	冬
+tə	之	之	之	或「止」
+tək	㝵	㝵	㝵	或「戠德」
+təm	冘	冘	冘
+tən	㐱	㐱	㐱	或「辰」
+təp	荅	荅	荅
+tət	斦	斦	斦
+təŋ	登	等	登	或「等」
+tra	宁	宁	㝉
+trak	乇	乇	乇
+tran	展	展	展
+trau	朝	朝	朝
+trauk	卓	卓	卓
+traŋ	長	長	长
+tre	知	知	知
+treŋ	貞	貞	贞
+tris	致	致	致
+trok	豖	豖	豖
+troŋ	冢	冢	冢
+trui	追	追	追
+truk	竹	竹	竹
+truŋ	中	中	中
+trək	陟	陟	陟
+trəŋ	徵	徵	徵
+tʰa	土	土	土
+tʰak	橐	橐	橐
+tʰas	太	太	太
+tʰau	夲	夲	夲
+tʰaŋ	昌	昌	昌
+tʰi	替	替	替
+tʰim	忝	忝	忝
+tʰin	天	天	天
+tʰoi	吹	吹	吹
+tʰok	禿	禿	禿
+tʰon	舛	舛	舛
+tʰuŋ	充	充	充
+tʰu	雔	雔	雔
+tʰun	春	春	春
+tʰus	退	退	退
+tʰə	蚩	蚩	蚩
+tʰəm	貪	貪	贪
+tʰəŋ	爯	稱	称
+tʰret	徹	徹	徹
+tʰroŋ	舂	舂	舂
+tʰrək	敕	敕	敕
+tʰrəm	闖	闖	闯
+wa	于	于	于
+wai	爲	爲	为	或「禾」
+wak	蒦	蒦	获
+wan	丸	丸	丸	或「亘爰」
+wat	戉	戉	戉	或「曰咶」
+was	會	會	会
+waŋ	王	王	王
+we	圭	圭	圭
+wes	彗	彗	彗
+wek	役	役	役
+wen	肙	肙	肙
+weŋ	熒	熒	荧	或「頃」
+wi	隹	隹	隹	諧「tui」
+win	匀	匀	匀	或「玄」
+wit	穴	穴	穴
+wə	又	又	又	或「尤」
+wəi	韋	韋	韦	或「囗回」
+wək	或	或	或
+wən	云	云	云
+wət	胃	胃	胃
+wəŋ	熊	熊	熊	諧「um」諧「wəm」
+wra	華	華	华
+wran	宦	宦	宦
+wrap	曄	曄	晔	諧「wrep」
+wraŋ	永	永	永
+wrek	畫	畫	画
+wren	幻	幻	幻	諧「wrin」
+wrəŋ	厷	厷	厷
+zak	乍	乍	乍
+zaŋ	匠	匠	匠	或「牆」
+zen	前	前	前
+zi	自	自	自
+zin	秦	秦	秦
+zit	疾	疾	疾
+zo	聚	聚	聚
+zoi	坐	坐	坐	諧「coi」
+zon	全	全	全	或「泉」，諧「cʰon」
+zu	酋	酋	酋
+zui	罪	罪	罪
+zun	存	存	存
+zə	才	才	才
+zək	賊	賊	贼
+zəp	集	集	集
+zra	助	助	助
+zram	毚	毚	馋
+zruŋ	崇	崇	崇
+zrə	士	士	士
+ŋa	五	五	五	或「午魚御馭」
+ŋai	我	我	我	或「宜」
+ŋak	噩	噩	咢	異體「咢」
+ŋam	嚴	嚴	严
+ŋan	厂	厂	厂
+ŋap	業	業	业
+ŋas	乂	乂	乂	諧「ŋat」
+ŋau	敖	敖	敖
+ŋauk	虐	虐	虐
+ŋaŋ	卬	卬	卬
+ŋe	兒	兒	儿
+ŋen	艮	艮	艮	或「幵」
+ŋet	埶	埶	艺	或「臬」
+ŋeu	堯	堯	尧
+ŋo	禺	禺	禺
+ŋoi	化	化	化	或「臥」
+ŋok	玉	玉	玉
+ŋon	元	元	元
+ŋot	月	月	月
+ŋui	嵬	嵬	嵬
+ŋut	兀	兀	兀
+ŋə	疑	疑	疑	諧「ŋək」
+ŋəi	豈	豈	豈
+ŋəm	今	今	今	區分用「吟」
+ŋən	斤	斤	斤	區分用「听」
+ŋəp	㬎	濕	湿
+ŋəs	豙	豙	豙
+ŋət	乞	乞	乞
+ŋra	牙	牙	牙
+ŋrak	屰	屰	屰
+ŋram	岩	岩	岩
+ŋran	彥	彥	彦
+ŋre	厓	厓	厓
+ŋrok	獄	獄	岳	或「獄」
+ŋroi	瓦	瓦	瓦
+ŋʷa	吳	吳	吴
+ŋʷə	牛	牛	牛
