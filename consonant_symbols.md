@@ -8,7 +8,8 @@ These are some consonant symbols/modifiers indented for use with the phonograph 
 * coronal: `⁺`
 * dorsal: `˂`
 * laryngeal: `˝`
-* /h/: `˚`
+* voicing: `ˇ` `亻`
+* /h/, aspiration: `˚` `口`
 * /j/: `'`
 * /l/: `"`
 * /r/: `˞` `˹˺˻˼`

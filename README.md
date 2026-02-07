@@ -113,7 +113,7 @@ Chinese phonographs often do not distinguish aspirated and voiced consonants. It
 
 **L/J(I/Y)/(R)**
 
-In Chinese phonographs, consonant `l`, `j` (making `i`/`y` sound) cannot be distinguished. Therefore, it is recommended that one use diacritics to make such distinctions. 
+In Chinese phonographs, consonant `l`, `j` (`j` = `i`/`y` sound) cannot be distinguished. Therefore, it is recommended that one use diacritics to make such distinctions. 
 
 Syllable final `r` is also indistinguishable from final `l` and `j`, and they shall be distinguished by diacritics as well. 
 

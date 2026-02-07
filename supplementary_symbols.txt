@@ -3,8 +3,8 @@
 ########## Phonetic Supplement Diacritics for Chinese Phonograph Alphabet ##########
 #####----- Consonant Voicing -----#####
 	˳˚⸰˙	voiceless consonant, if there is no need of this mark, the ring symbol may be used to mark aspiration, place holder 
-	ˬˇ∨	voiced consonant 
-	ʰ˳˚⸰˸˝	aspiration, syllable final h, falling tone, the circumflex symbol may be used to avoid Latin letters
+	ˬˇ∨亻	voiced consonant 
+	ʰ˳˚⸰˸˝口	aspiration, syllable final h, falling tone, the circumflex symbol may be used to avoid Latin letters
 	ˢ˔⊥∧^ˆⸯ	fricative
 	ʱ'	non type 3 marker 
 #####----- Liquid & Palatal Approximant -----#####
