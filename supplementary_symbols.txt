@@ -3,20 +3,21 @@
 ########## Phonetic Supplement Diacritics for Chinese Phonograph Alphabet ##########
 #####----- Consonant Voicing -----#####
 	˳˚⸰˙	voiceless consonant, if there is no need of this mark, the ring symbol may be used to mark aspiration, place holder 
-	ˬˇ	voiced consonant 
-	ʰˢˆ	aspiration, syllable final h (or s), fricative consonant, falling tone, the circumflex symbol may be used to avoid Latin letters 
-	ʱ	non type 3 marker 
+	ˬˇ∨	voiced consonant 
+	ʰ˳˚⸰˸˝	aspiration, syllable final h, falling tone, the circumflex symbol may be used to avoid Latin letters
+	ˢ˔⊥∧^ˆⸯ	fricative
+	ʱ'	non type 3 marker 
 #####----- Liquid & Palatal Approximant -----#####
-	ʲ╵ǂ	j, i, the vertical line symbol may be used to avoid Latin letters 
+	ʲ╵ˈǂ	j, i, the vertical line symbol may be used to avoid Latin letters 
 	ʳ│ǀ˞	r, the vertical line symbol may be used to avoid Latin letters 
 	ˡ╎ǁ	l, the vertical line symbol may be used to avoid Latin letters 
 #####----- Tones -----#####
 	ˀ	syllable final glottal stop, rising tone 
 ########## Phonetic Modifiers ##########
 #####----- Vowels -----#####
-	ː	vowel lengthening 
+	ːˉ	vowel lengthening 
 	¨	vowel augmentation, umlaut 
-	~	nasalization 
+	~˜	nasalization 
 ########## Noun Cases & Prepositions ##########
 	•	nominative 
 	•	topic of sentence 

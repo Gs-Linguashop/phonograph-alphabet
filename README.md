@@ -4,41 +4,41 @@ Chinese phonograph alphabet is an attempt to alphabetize Chinese phonographs int
 
 Chinese phonographs are components (or radicals) of Chinese characters often borrowed phonetically as syllables into the construction of other characters that differ in meanings but share similar pronunciations. Such phonetic borrowing underlies the structures of the majority of chinese characters. The most common phonographs are more than 1,000 in number, and covers most phonetically common syllables in Old Chinese. Historically, the Chinese language did not evolve in a way that extracts these phonographs into an alphabet, but these phonographs can nonetheless be trimmed into syllabic alphabets for any other languages.
 
-The most important phonemes and their corresponding phonographs are listed [here](phonemes.md). The full raw syllabic alphabet (~800 syllables) can be found [here (traditional)](phonograph_trad.md), [here (cursive handwriting)](phonograph_hand.md), [here (simplified)](phonograph_simp.md), and [here (source file)](phonograph_chart.txt). A more detailed list of common phonographs can be found [here](phonograph_chart_details.md).
+The most important phonemes and their corresponding phonographs are listed [here](phonemes.md). The full raw syllabic alphabet (~800 syllables) can be found [here (traditional)](phonograph_trad.md), [here (cursive handwriting)](phonograph_hand.md), [here (simplified)](phonograph_simp.md), and [here (source file)](phonograph_chart.txt). A more detailed list of common phonographs can be found [here](phonograph_chart_details.md). A list of complementary phonetic and semantic shorthand symbols can be found [here](supplementary_symbols.txt) (shorter list [here](consonant_symbols.md)). Finally, [here](ideographs_recommended.txt) is a list of ideographs recommended for non-phonetic use.
 
 To adopt the phonograph alphabet for other languages, some changes of the original template are necessary. You can find some useful tips below.
 
-# Applying Chinese Phonographs
+## Applying Chinese Phonographs
 
 Due to features of Old Chinese phonology and etymology, the Chinese phonographs may not be perfectly suited for general usage in the target languages. Here are some general guides for applying the phonographs. 
 
-# Alphabet Structure: The Recommended Approach 
+## Alphabet Structure: The Recommended Approach 
 
-## Phonographs for Word Roots 
+### Phonographs for Word Roots 
 
 It is recommended that only word roots are designated with phonographs. Additional **ideographs** may also be directly borrowed to denote common roots. 
 
 Due to syllabic nature of the Chinese phonograph alphabet, it is most suited for languages where word roots are based on syllables, such as most Indo-European languages. Adaptations on languages with very different etymologies, for example Semitic languages, will take more effort. 
 
-## Diacritics for Phonetic Clarifications 
+### Diacritics for Phonetic Clarifications 
 
 Chinese phonographs may create phonetic ambiguities when borrowed to other languages. They can be clarified through diacritic marks. It is recommended that they be made optional, as their omission often do not cause problems to understanding of the text. We do provide some recommendations to such diacritics in this guide. 
 
 Some languages contain consonants that have no direct analogy in Old Chinese. They may be denoted with suitable modified versions of the Chinese phonographs, similar to how may languages modified the Latin Alphabet to adopt to their own languages, for instance. 
 
-## Symbols for Grammatical Features 
+### Symbols for Grammatical Features 
 
 Grammatical and other morphological features, including prefixes and suffixes, pronouns, particles, common adverbs, declensions, conjugations, etc., may be denoted by a collection of symbols, suggested here in the other separate file. 
 
-# Phonetic Features of Phonographs & Usage Tips 
+## Phonetic Features of Phonographs & Usage Tips 
 
 The sounds of the phonographs are not to be used for there face value (for example in a way similar to spelling languages in IPA). It is recommended to use them as a systematic way of codifying the phonology of the target language, fully leveraging the consonant groups and rhyme groups of the phonographs. 
 
-## Prefix Consonants 
+### Prefix Consonants 
 
 Most prominent prefix consonants in Old Chinese are `s-` and `m-`. They are not especially distinguished in phonograph usages. They can be ignored in alphabet adaptations. 
 
-## Initial Consonants 
+### Initial Consonants 
 
 There are four major sequences (or rows) of consonants, one labial sequence of consonants, and some other ones. A consonant often has an aspirated version and sometimes a voiced version. 
 
@@ -60,13 +60,13 @@ As far as the phonographs are concerned, they often do not distinguish aspiratio
 
 There are very few phonographs associated with single vowels used for exclamation. They do not come with definite initial consonants. But, in general, Chinese syllables always have initial consonants. 
 
-## The Type 3 Dichotomy 
+### The Type 3 Dichotomy 
 
 In the later evolution of the Chinese language, syllables diverge into two opposite type, the type 3 syllables and the non type 3 syllables. What caused the dichotomy is still a topic of active research. Phonographs often do not distinguish these, meaning that the corresponding type 3 and non type 3 syllables sounded very similar before they diverged. We denote non type 3 syllables with a medial `ʱ`. 
 
 If the target language have similar dichotomy, for instance if the vowels are divided by palatalization, or some vowel augmentation feature, you may leverage this type 3 dichotomy as a distinguishing feature. Or, you may ignore it entirely. 
 
-## Medials 
+### Medials 
 
 Medials include 
 * `r l j w` 
@@ -79,19 +79,19 @@ Medial `j` (or `i/y`), is even more elusive phonetically, and our understanding 
 
 Medial `w`, or labialization, is a quite pronounced medial. The labialized consonants are only associated with velar and glottal consonants. You may view labialization as variant of these consonants, or view the labialized versions as distinct consonants. Also, in some sense, we can view `w = ɦʷ`. 
 
-## Vowels 
+### Vowels 
 
 We use the six vowel hypothesis of old Chinese phonology. Vowels include 
 * `a e i o u ə`
 
 There is always a single vowel at the core of the syllable. 
 
-## Finals 
+### Finals 
 
 Finals (optional) include 
 * `ŋ k u uk i n t m p` 
 
-## Rhymes 
+### Rhymes 
 
 A rhyme is a combination of a vowel and a final. Not all combination of vowels and finals are allowed. Allowed rhymes include 
 * `a aŋ ak au auk ai an at am ap` 
@@ -101,23 +101,23 @@ A rhyme is a combination of a vowel and a final. Not all combination of vowels a
 * `i in it im ip` 
 * `u uŋ uk ui un ut` 
 
-## Tones 
+### Tones 
 
 There is a glottal stop tone and an aspiration tone. They can be respectively viewed as a final glottal stop and a final `h` after the first final. They are quite common, but often not distinguished by phonographs. 
 
-## Indistinguishable & Unavailable Phonemes 
+### Indistinguishable & Unavailable Phonemes 
 
-### Aspirated & Voiced Consonants 
+**Aspirated & Voiced Consonants**
 
 Chinese phonographs often do not distinguish aspirated and voiced consonants. It is therefore recommended to use diacritics for such variants of consonants. 
 
-### L/J(I/Y)/(R) 
+**L/J(I/Y)/(R)**
 
 In Chinese phonographs, consonant `l`, `j` (making `i`/`y` sound) cannot be distinguished. Therefore, it is recommended that one use diacritics to make such distinctions. 
 
 Syllable final `r` is also indistinguishable from final `l` and `j`, and they shall be distinguished by diacritics as well. 
 
-### Final H/S 
+**Final H/S**
 
 Final `h` exists in Old Chinese, but not often distinguished though phonographs. If it is a common feature of the target language, it shall be marked with a diacritic. 
 
@@ -125,11 +125,11 @@ Final `s` exists in Old Chinese in the form of `-tʰ`, therefore it can be reali
 
 Fricative consonants `f/th/kh`, as they are unavailable in Chinese phonographs, may also be expressed with the help of `h`. 
 
-### Retroflex or Postalveolar Affricatives 
+**Retroflex or Postalveolar Affricatives**
 
 The retroflex or postalveolar affricatives, that is, sounds similar to English `ch` and `sh`, shall be expressed with `cr`, `sr`, and similar consonant combinations. 
 
-## Rhymes 
+### Rhymes 
 
 The following rhyme pairs often share the same phonographs (but only occasionally) 
 * `an ən` 
