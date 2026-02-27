@@ -21,8 +21,8 @@ def read_pairs(file_path):
 			if line.startswith('#') or line.startswith('音') or line.startswith('-') or not line.strip():
 				continue
 			# key, item = line.strip().split('\t')[0], line.strip().split('\t')[1] # traditional
-			key, item = line.strip().split('\t')[0], line.strip().split('\t')[2] # handwritten
-			# key, item = line.strip().split('\t')[0], line.strip().split('\t')[3] # simplified
+			# key, item = line.strip().split('\t')[0], line.strip().split('\t')[2] # handwritten
+			key, item = line.strip().split('\t')[0], line.strip().split('\t')[3] # simplified
 			pairs.append((key, item))
 			extra_key = ""; is_extra = False
 			for char in line:
@@ -57,7 +57,7 @@ def create_table(pairs):
 
 	vowel_order = "aeiouə"
 	rows = sorted(rows, key=lambda x: [vowel_order.index(c) if c in vowel_order else len(vowel_order) + ord(c) for c in x])
-	cols = ["", "ŋ", "k", "u", "uk", "i", "n", "t", "m", "p"]
+	cols = ["", "ŋ", "k", "u", "uk", "i", "n", "t", "s", "m", "p"]
 
 	table = [[""] + cols]
 	for row in rows:
@@ -82,5 +82,7 @@ def main(input_file, output_file):
 
 if __name__ == "__main__":
 	input_file = 'phonograph_chart.txt'  # Replace with your input file path
-	output_file = 'phonograph_hand.md'  # Replace with your desired output file path
+	# output_file = 'phonograph_trad.md'  # Replace with your desired output file path
+	# output_file = 'phonograph_hand.md'  # Replace with your desired output file path
+	output_file = 'phonograph_simp.md'  # Replace with your desired output file path
 	main(input_file, output_file)
