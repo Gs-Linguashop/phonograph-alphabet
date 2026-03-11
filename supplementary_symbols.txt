@@ -12,7 +12,9 @@
 	ʳ│ǀ˞	r, the vertical line symbol may be used to avoid Latin letters 
 	ˡ╎ǁ	l, the vertical line symbol may be used to avoid Latin letters 
 #####----- Tones -----#####
+	ʰ˳˚⸰˸˝口	syllable final h, falling tone
 	ˀ	syllable final glottal stop, rising tone 
+	ˢ˔⊥∧^ˆⸯ	fricative falling tone
 ########## Phonetic Modifiers ##########
 #####----- Vowels -----#####
 	ːˉ	vowel lengthening 

@@ -143,3 +143,7 @@ The following rhyme pairs often share the same phonographs (but only occasionall
 * `uŋ əm` 
 
 Final `-u` and `-uk` often share phonographs. Final `-m` and `-p` often share phonographs. 
+
+## To-Do
+
+I plan to make a more refined chart that includes not only the principal phonographs, but all usage recommendations for detailed syllable possibilities distinguishing voicing, aspiration, type-3 dichotomy, and tones. This will also serve as a template for my other Chinese phonology projects, including a detailed progressive prescription of Chinese character orthography.
