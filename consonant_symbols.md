@@ -1,6 +1,6 @@
-# Consonant Symbols
+# Supplementary Consonant Symbols
 
-These are some consonant symbols/modifiers indented for use with the phonograph alphabet.
+These are some supplementary consonant symbols/modifiers indented for use with the phonograph alphabet.
 
 * glottal stop: `'`
 * nasalization: `˜` `˙` `˛`
