@@ -6,6 +6,8 @@ Chinese phonographs are components (or radicals) of Chinese characters often bor
 
 The most important phonemes and their corresponding phonographs are listed [here](phonemes.md). The full raw syllabic alphabet (~800 syllables) can be found [here (traditional)](phonograph_trad.md), [here (cursive handwriting)](phonograph_hand.md), [here (simplified)](phonograph_simp.md), and [here (source file)](phonograph_chart.txt). A more detailed list of common phonographs can be found [here](phonograph_chart_details.md). A list of complementary phonetic and semantic shorthand symbols can be found [here](supplementary_symbols.txt) (shorter list [here](consonant_symbols.md)). Finally, [here](ideographs_recommended.txt) is a list of ideographs recommended for non-phonetic use.
 
+Other than phonetic symbols, you may find other Chinese character symbols handy to borrow for custom use. I have compiled a grouping of characters by stroke count [here](chinese_characters_by_stroke/), so you may look for simple symbols with least strokes. I also present the radical frequencies [here](chinese_radical_statistics/) if you wish to refer to how frequent radicals naturally occur in Chinese characters.
+
 To adopt the phonograph alphabet for other languages, some changes of the original template are necessary. You can find some useful tips below.
 
 ## Applying Chinese Phonographs
